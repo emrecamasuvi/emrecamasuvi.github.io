@@ -1,0 +1,11 @@
+{
+  "name": "emrecamasuvi-website",
+  "version": "1.0.0",
+  "description": "Personal website htmlhint config",
+  "scripts": {
+    "test": "htmlhint '*.html'"
+  },
+  "devDependencies": {
+    "htmlhint": "^1.1.5"
+  }
+}
