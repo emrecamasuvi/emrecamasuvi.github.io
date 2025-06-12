@@ -1,0 +1,16 @@
+{
+  "name": "emrecamasuvi.github.io",
+  "version": "1.0.0",
+  "description": "Source of my personal website served via GitHub Pages.",
+  "scripts": {
+    "test": "htmlhint index.html 404.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "htmlhint": "^1.5.1"
+  },
+  "private": true
+}
